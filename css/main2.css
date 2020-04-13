@@ -1,3 +1,35 @@
+.img1 {
+  width: 750px;
+  float: left;
+  padding: 20px;
+}
+
+.img2 {
+  width: 380px;
+  float: right;
+  padding: 20px;
+  max-width: 100%;
+}
+.img3 {
+  width: 350px;
+  float: left;
+  padding: 20px;
+  max-width: 100%;
+}
+
+.img4 {
+  width: 350px;
+  float: right;
+  padding: 20px;
+}
+
+.img5 {
+  width: 200px;
+  padding: 20px;
+  max-width: 100%;
+}
+
+
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -108,35 +140,6 @@ h2 {
   color: white;
 }
 
-.img1 {
-  width: 750px;
-  float: left;
-  padding: 20px;
-}
-
-.img2 {
-  width: 380px;
-  float: right;
-  padding: 20px;
-  max-width: 100%;
-}
-.img3 {
-  width: 350px;
-  float: left;
-  padding: 20px;
-  max-width: 100%;
-}
-
-.img4 {
-  width: 350px;
-  float: right;
-  padding: 20px;
-}
-
-.img5 {
-  width: 200px;
-  padding: 20px;
-}
 
 .p3 {
   text-align: left;
